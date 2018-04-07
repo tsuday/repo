@@ -1,2 +1,3 @@
 # Git/GitHub trial
-This is a repository used to try functions of git and GitHub! 
+Repository for my own trial and study on Git and GitHub.
+Please not that this repository has no meaningful contents.
